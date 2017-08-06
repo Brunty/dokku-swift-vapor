@@ -1,1 +1,1 @@
-web: App serve --workdir="./"
+web: Run serve --workdir="./"
